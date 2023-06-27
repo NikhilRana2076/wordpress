@@ -3,4 +3,4 @@ This is an ecommerce project built on wordpress and elementor
 
 the link to the website is:
 
-https://dev-mandalalasha.pantheonsite.io/#
+http://mandalalasha.byethost13.com/)http://mandalalasha.byethost13.com/
